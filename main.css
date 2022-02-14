@@ -1,0 +1,107 @@
+body{
+    overflow-x: hidden;
+}
+h1, h2{
+    text-transform: capitalize;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #00a3ef;
+}
+.navbar-brand img{
+    height: 2rem;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    text-transform: capitalize;
+    
+}
+.navbar-nav li{
+   padding-right: .7rem; 
+}
+
+.carousel-item, .background{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50);
+}
+.footer-logo{
+    width: 5rem;
+    height: 2rem;
+}
+.fa-facebook, .fa-twitter, .fa-instagram, .fa-snapchat{
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding-right: .5rem;
+}
+.jumbotron{
+    height: 100%;
+    padding: 1rem;
+    border-radius: 0;
+    background: #00a3ef;
+}
+.padding{
+    padding-bottom: 2rem;
+}
+.team{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.team hr{
+    border-top: 2px solid #00a3ef;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+
+}
+.cards{
+    padding-top: 2rem;
+}
+.why{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.why hr{
+    border-top: 2px solid #00a3ef;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+.fa-hospital, .fa-car, .fa-home, .fa-envelope, .fa-phone{
+    font-size: 4rem;
+    margin: 1rem;
+    color: #00a3ef;
+}
+h4{
+    color: #00a3ef;
+}
+.advert{
+    border: solid 1px #00a3ef;
+}
+.advert .padding{
+    padding-top: 3rem;
+}
+#footer{
+    background: #00a3ef;
+    margin-top: 3rem;
+}
+.service{
+    padding-top: 3rem;
+}
+.cover-heading{
+    color: #00a3ef;
+}
+.contact hr{
+    border-top: 2px solid #00a3ef;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+.footer-content{
+    padding-top: 2rem;
+}
